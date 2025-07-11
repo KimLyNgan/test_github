@@ -1,4 +1,4 @@
 print('hello world from python')
-print("Hello from Tony")
-print("This is from feature/add-math")
-print('dong nay phai giu lai khi resolve conflict')
+print('sua tay 1 doan code de tao conflic')
+print("Teammate changed this directly on main branch!")
+print("Do not lose this when merging!")
